@@ -1,0 +1,1 @@
+This project is the Recipes project from The Odin Project. I will have demonstrated the basics of HTML including boilerplate creation, lists, links, images, and the use of accurate commit messages.
